@@ -1,9 +1,12 @@
 # Compreender React
+Este projeto básico de frontend, que implementa um crud de usuários, foi criado com o objetivo de compreender o funcionamento do React para criação de UI.
+Esta lib que está muito em alta nos últimos anos. Após ver a criação de um projeto acadêmico usando esta tecnologia, decidi criar este projeto para compreender o básico sobre ela.
 
-Este projeto básico, foi criado com o objetivo de compreender o funcionamento da lib React. Esta lib que está muito em alta nos últimos anos. Após ver a criação de um projeto acadêmico usando react e não entender nada, decidi criá-lo para que tudo o que vi faça sentido (Agora faz). 
+# Tecnologias
 
-
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
 
 # React + Vite
 
