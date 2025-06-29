@@ -1,3 +1,10 @@
+# Compreender React
+
+Este projeto básico, foi criado com o objetivo de compreender o funcionamento da lib React. Esta lib que está muito em alta nos últimos anos. Após ver a criação de um projeto acadêmico usando react e não entender nada, decidi criá-lo para que tudo o que vi faça sentido (Agora faz). 
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
